@@ -2,7 +2,7 @@
 
 ## Usage :
 
-*let unsortedArray = [8, 3, 5, 2, 43, 2, 45]*
+```let unsortedArray = [8, 3, 5, 2, 43, 2, 45]```  <br />
 
 ### **Merge Sort:**
 
